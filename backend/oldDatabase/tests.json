@@ -1,0 +1,237 @@
+{
+  "test_db": [
+    {
+      "testID": "OOPMID2022",
+      "module": "Object Oriented Programming",
+      "isExam": true,
+      "isMarked": true,
+      "name": "midterm",
+      "examinerID": 19,
+      "date": "24/10/2022",
+      "start": "09:00",
+      "end": "12:00",
+      "studentsID": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "questions": [
+        {
+          "type": 0,
+          "question": "Inheritance is:",
+          "marks": 4,
+          "answer": 1,
+          "options": [
+            "a has-a relationship between classes",
+            "an is-a relationship between classes",
+            "a relationship between classes sharing variables"
+          ],
+          "hint": "The subclass does not have access to the parent class' data",
+          "maxMark": 2
+        },
+        {
+          "type": 1,
+          "question": "What is a function?",
+          "sampleAnswer": "Named section of a program that performs a specific task",
+          "marks": 4,
+          "hint": "example of a function: increaseByOne(a) { return a+1 }",
+          "maxMark": 2,
+          "keywords": ["section", "piece of code", "task"]
+        },
+        {
+          "type": 2,
+          "question": "Discuss the difference between methods, functions and procedures.",
+          "marks": 8,
+          "sampleAnswer": "In terms of С#/Java, function is the block of code, which return particular value, but procedure is the block of code which return void (nothing). In C#/Java both functions and procedures more often called just methods.",
+          "hint": "Distinguish the return types.",
+          "maxMark": 4
+        }
+      ]
+    },
+    {
+      "testID": "OOPQUIZ12020",
+      "module": "Object Oriented Programming",
+      "isExam": false,
+      "isMarked": true,
+      "name": "week 1 quiz",
+      "examinerID": 15,
+      "date": "14/09/2022",
+      "start": "9:00",
+      "end": "00:00",
+      "duration": "1:00",
+      "studentsID": [0, 1, 5, 6, 7, 8, 9, 12, 13, 14],
+      "questions": [
+        {
+          "type": 0,
+          "question": "What does OOP stand for?",
+          "marks": 1,
+          "answer": 0,
+          "hint": "It is the name of the module",
+          "maxMark": 0.5,
+          "options": [
+            "Object Oriented Programming",
+            "Oriented Object Paradigm",
+            "Outstanding Oracle Programmers"
+          ]
+        },
+        {
+          "type": 1,
+          "question": "What is an object?",
+          "sampleAnswer": "It is an instance of a class.",
+          "marks": 4,
+          "hint": "Think in terms of classes.",
+          "maxMark": 1,
+          "keywords": ["instance", "class"]
+        },
+        {
+          "type": 2,
+          "question": "Write the code for a class Car with 2 attributes color and year. Then declare a new Object called youWish.",
+          "marks": 8,
+          "sampleAnswer": " public class Car { String brand = Porsche; color = dark blue; public static void main(String[] args) { Car youWish = new Car(); } }",
+          "hint": "You can declare the object in a main() function.",
+          "maxMark": 6
+        }
+      ]
+    },
+    {
+      "testID": "PPQUIZ2020",
+      "module": "Procedural Programming",
+      "isExam": false,
+      "isMarked": false,
+      "name": "week 7 quiz",
+      "examinerID": 16,
+      "date": "28/03/2020",
+      "start": "10:00",
+      "end": "23:59",
+      "studentsID": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "duration": "2:00",
+      "questions": [
+        {
+          "type": 0,
+          "question": "What does PP stand for?",
+          "marks": 1,
+          "answer": 1,
+          "hint": "",
+          "options": [
+            "Produce Programming",
+            "Procedural Programming",
+            "Planning Programmin"
+          ]
+        },
+        {
+          "type": 1,
+          "question": "What is procedural oriented programming?",
+          "sampleAnswer": "A series of instructions within a procedure, which are groups of commands, often called functions.",
+          "marks": 3,
+          "hint": "Think of functions",
+          "maxMark": 2,
+          "keywords": ["functions", "procedure", "commands", "instructions"]
+        },
+        {
+          "type": 2,
+          "question": "How would you define functional programming?",
+          "marks": 6,
+          "sampleAnswer": "Functional programming is a programming paradigm, it",
+          "hint": "It is a programming paradigm, it is a way of thinking about software construction based on composing pure functions. Functional programming is based on mathematical functions. A pure function is a function which: Given the same inputs, always returns the same output, and has no side-effects. Function composition is the process of combining two or more functions in order to produce a new function or perform some computation. Functional programming languages are specially designed to handle symbolic computation and list processing applications.",
+          "maxMark": 6
+        }
+      ]
+    },
+    {
+      "testID": "PPMID2020",
+      "module": "Procedural Programming",
+      "isExam": true,
+      "isMarked": false,
+      "name": "midterm",
+      "examinerID": 16,
+      "date": "16/05/2020",
+      "start": "9:00",
+      "end": "23:59",
+      "studentsID": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "duration": "2:00",
+      "questions": [
+        {
+          "type": 0,
+          "question": "Procedural language contains systematic order of",
+          "marks": 2,
+          "answer": 2,
+          "hint": "",
+          "options": ["objects", "classes", "statements", "operations"]
+        },
+        {
+          "type": 1,
+          "question": "What is a function in procedural programming",
+          "sampleAnswer": "A function in programming is a group of commands. Instead of only having one large block on instructions, functions allow developers to make smaller components, which makes it easier to understand.",
+          "marks": 3,
+          "hint": "Allows to make smaller components",
+          "maxMark": 1.5,
+          "keywords": ["function", "commands", "instructions"]
+        },
+        {
+          "type": 0,
+          "question": "What is a computerised procedural system interpreted by?",
+          "marks": 2,
+          "answer": "2",
+          "hint": "Able to convert the entire program of the source code to machine language.",
+          "maxMark": 1,
+          "options": ["interpreter", "verifier", "compiler", "converter"]
+        },
+        {
+          "type": 2,
+          "question": "Explain why we should use functional programming? And give one example.",
+          "marks": 6,
+          "sampleAnswer": "You should use functional programming if you want to represent certain logical facts and relationships and to have the computer calculate results. One example of using functional programming would be for artificial intelligence.",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "testID": "SEQUIZ7",
+      "module": "Software Engineering",
+      "isExam": false,
+      "isMarked": false,
+      "name": "week 7 quiz",
+      "examinerID": 17,
+      "date": "10/11/2020",
+      "start": "09:00",
+      "end": "23:59",
+      "studentsID": [0, 2, 3, 4, 5, 6, 10, 11, 12, 13, 14],
+      "duration": "1:00",
+      "questions": [
+        {
+          "type": 0,
+          "question": "What is an SDLC model?",
+          "marks": 1,
+          "answer": 2,
+          "hint": "",
+          "options": [
+            "State development low-cohesion model",
+            "Static design life-cycle model",
+            "Software development life-cycle model"
+          ]
+        },
+        {
+          "type": 0,
+          "question": "What does PP stand for?",
+          "marks": 4,
+          "answer": 1,
+          "hint": "",
+          "maxMark": 2,
+          "options": [
+            "Produce Programming",
+            "Procedural Programming",
+            "Planning Programmin"
+          ]
+        },
+        {
+          "type": 0,
+          "question": "What does PP stand for?",
+          "marks": 1,
+          "answer": 1,
+          "hint": "",
+          "options": [
+            "Produce Programming",
+            "Procedural Programming",
+            "Planning Programmin"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "user_db": [
+    {
+      "ID": 0,
+      "email": "cmustard0@kickstarter.com",
+      "name": "Chelsea Mustard",
+      "password": "J3PfAHUMo8A",
+      "type": 0
+    },
+    {
+      "ID": 1,
+      "email": "rdunmore1@cloudflare.com",
+      "name": "Reinaldos Dunmore",
+      "password": "SebiTb1o3viA",
+      "type": 0
+    },
+    {
+      "ID": 2,
+      "email": "sbrissard2@theguardian.com",
+      "name": "Sharai Brissard",
+      "password": "eIqZvQ",
+      "type": 0
+    },
+    {
+      "ID": 3,
+      "email": "dmargetts3@opensource.org",
+      "name": "Dew Margetts",
+      "password": "zTAGgrB",
+      "type": 0
+    },
+    {
+      "ID": 4,
+      "email": "drowlinson4@smh.com.au",
+      "name": "Duncan Rowlinson",
+      "password": "BPs2Y9s9WrJ8",
+      "type": 0
+    },
+    {
+      "ID": 5,
+      "email": "carmall5@yahoo.com",
+      "name": "Cathrin Armall",
+      "password": "8AwWYoz",
+      "type": 0
+    },
+    {
+      "ID": 6,
+      "email": "fgerauld6@addtoany.com",
+      "name": "Fredrick Gerauld",
+      "password": "1oZOMiflT",
+      "type": 0
+    },
+    {
+      "ID": 7,
+      "email": "fprovest7@statcounter.com",
+      "name": "Fernandina Provest",
+      "password": "OR4eOV",
+      "type": 0
+    },
+    {
+      "ID": 8,
+      "email": "tkubelka8@ocn.ne.jp",
+      "name": "Teirtza Kubelka",
+      "password": "mJ5GioZ",
+      "type": 0
+    },
+    {
+      "ID": 9,
+      "email": "canten9@nsw.gov.au",
+      "name": "Cissy Anten",
+      "password": "i1k1WyPoi",
+      "type": 0
+    },
+    {
+      "ID": 10,
+      "email": "glyttlea@stumbleupon.com",
+      "name": "Glenn Lyttle",
+      "password": "vwiVbfc",
+      "type": 0
+    },
+    {
+      "ID": 11,
+      "email": "beltringhamb@latimes.com",
+      "name": "Britt Eltringham",
+      "password": "CwptVQXyVwp",
+      "type": 0
+    },
+    {
+      "ID": 12,
+      "email": "lcapaldoc@printfriendly.com",
+      "name": "Lukas Capaldo",
+      "password": "9CIE3Kw2mz",
+      "type": 0
+    },
+    {
+      "ID": 13,
+      "email": "smacgormand@jiathis.com",
+      "name": "Samaria MacGorman",
+      "password": "KNajlyTet",
+      "type": 0
+    },
+    {
+      "ID": 14,
+      "email": "bigO@princeps.com",
+      "name": "Octavian Ceasare",
+      "password": "augustus",
+      "type": 0
+    },
+    {
+      "ID": 15,
+      "email": "jwasylkiewiczf@smugmug.com",
+      "name": "Jacquie Wasylkiewicz",
+      "password": "Xx8AJZq",
+      "type": 1
+    },
+    {
+      "ID": 16,
+      "email": "rpostansg@myspace.com",
+      "name": "Rosetta Postans",
+      "password": "wUxOD0HBMcu",
+      "type": 1
+    },
+    {
+      "ID": 17,
+      "email": "wmalth@reference.com",
+      "name": "Winona Malt",
+      "password": "au8d4Vsh6Tw",
+      "type": 1
+    },
+    {
+      "ID": 18,
+      "email": "irisseni@google.pl",
+      "name": "Indira Rissen",
+      "password": "MpvNFte1j",
+      "type": 1
+    },
+    {
+      "ID": 19,
+      "email": "admin@admin.com",
+      "name": "The Architect",
+      "password": "password",
+      "type": 1
+    }
+  ]
+}

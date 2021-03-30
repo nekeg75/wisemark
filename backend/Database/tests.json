@@ -1,0 +1,56 @@
+{
+	"test_db": [
+		{
+			"testID": "OOPMID2022",
+			"module": "Object Oriented Programming",
+			"isExam": true,
+			"isMarked": false,
+			"name": "midterm",
+			"examinerID": 2,
+			"date": "20 Apr 2020",
+			"start": "10:00:00",
+			"end": "11:00:00",
+			"studentsID": [
+				0,
+				1
+			],
+			"totalStudentsAssigned": 2,
+			"questions": [
+				{
+					"type": 0,
+					"question": "Inheritance is:",
+					"marks": 4,
+					"answer": 1,
+					"options": [
+						"a has-a relationship between classes",
+						"an is-a relationship between classes",
+						"a relationship between classes sharing variables"
+					],
+					"hint": "The subclass does not have access to the parent class' data",
+					"maxMark": 2
+				},
+				{
+					"type": 1,
+					"question": "What is a function?",
+					"sampleAnswer": "Named section of a program that performs a specific task",
+					"marks": 4,
+					"hint": "example of a function: increaseByOne(a) { return a+1 }",
+					"maxMark": 2,
+					"keywords": [
+						"section",
+						"piece of code",
+						"task"
+					]
+				},
+				{
+					"type": 2,
+					"question": "Discuss the difference between methods, functions and procedures.",
+					"marks": 8,
+					"sampleAnswer": "In terms of С#/Java, function is the block of code, which return particular value, but procedure is the block of code which return void (nothing). In C#/Java both functions and procedures more often called just methods.",
+					"hint": "Distinguish the return types.",
+					"maxMark": 4
+				}
+			]
+		}
+	]
+}

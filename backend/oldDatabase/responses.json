@@ -1,0 +1,61 @@
+{
+  "response_db": [
+    {
+      "testID": "OOPMID2022",
+      "responses": [
+        {
+          "studentID": 3,
+          "answers": [
+            0,
+            "function is a method",
+            "function and method not the same idk"
+          ],
+          "marks": [2, 4, 0]
+        },
+        {
+          "studentID": 2,
+          "answers": [
+            1,
+            "function is a piece of code that performs a specific task",
+            "function and procedure have different return types: one is void and the other one returns a value. Functions and procedure are methods."
+          ],
+          "marks": [0, 2, 7]
+        },
+        {
+          "studentID": 1,
+          "answers": ["", "", ""],
+          "marks": null
+        }
+      ]
+    },
+
+    {
+      "testID": "OOPQUIZ1",
+      "responses": [
+        {
+          "studentID": 7,
+          "answers": [
+            2,
+            "object is a class",
+            "ublic class Car { String brand = Porsche; color = dark blue; public static void main(String[] args) { Car youWish = new Car(); } }"
+          ],
+          "marks": [2, 0, 8]
+        },
+        {
+          "studentID": 5,
+          "answers": [
+            1,
+            "instance of a class",
+            "public class Car { String brand = Porsche; color = dark blue; public static void main(String[] args) { Car youWish = new Car(); } }"
+          ],
+          "marks": [0, 4, 6]
+        },
+        {
+          "studentID": 11,
+          "answers": ["", "", ""],
+          "marks": null
+        }
+      ]
+    }
+  ]
+}

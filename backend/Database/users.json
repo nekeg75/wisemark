@@ -1,0 +1,25 @@
+{
+  "user_db": [
+    {
+      "ID": 0,
+      "email": "student0@student.com",
+      "name": "Octavius Favii",
+      "password": "Password-0",
+      "type": 0
+    },
+    {
+      "ID": 1,
+      "email": "student1@student.com",
+      "name": "Reinaldos Dunmore",
+      "password": "Password-1",
+      "type": 0
+    },
+    {
+      "ID": 2,
+      "email": "examiner@examiner.com",
+      "name": "Dr Mustafa Bozkurt",
+      "password": "Password-2",
+      "type": 1
+    }
+  ]
+}
